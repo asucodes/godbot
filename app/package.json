@@ -1,0 +1,20 @@
+{
+  "name": "godbot",
+  "version": "2.0.0",
+  "description": "Autonomous multi-agent Minecraft village — Grounded Builder",
+  "main": "society.mjs",
+  "scripts": {
+    "start": "node society.mjs",
+    "test": "node planner.mjs test"
+  },
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "@cline/sdk": "^0.0.90",
+    "express": "^5.2.1",
+    "mineflayer": "^4.39.0",
+    "mineflayer-pathfinder": "^2.4.5",
+    "zod": "^4.6.5"
+  }
+}
+

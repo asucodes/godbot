@@ -1,0 +1,38 @@
+[
+  {
+    "uuid": "48655595-f78c-37ad-8d9c-5886decb76c2",
+    "name": "asupasuyo",
+    "level": 4,
+    "bypassesPlayerLimit": true
+  },
+  {
+    "uuid": "0936141c-f665-327d-890c-813262ab4e18",
+    "name": "Grimm",
+    "level": 4,
+    "bypassesPlayerLimit": true
+  },
+  {
+    "uuid": "4c29776b-3fb8-3724-a102-248a0c646815",
+    "name": "Willow",
+    "level": 4,
+    "bypassesPlayerLimit": true
+  },
+  {
+    "uuid": "c12cc45b-0377-32a5-8fa0-d0f7cc95b22c",
+    "name": "Mason",
+    "level": 4,
+    "bypassesPlayerLimit": true
+  },
+  {
+    "uuid": "ebf9a56b-3ecf-327f-8068-95bc549c4c50",
+    "name": "ClineGodbot",
+    "level": 4,
+    "bypassesPlayerLimit": true
+  },
+  {
+    "uuid": "876408fa-0d19-3bf1-8b11-24cbf035f49d",
+    "name": "Pearl",
+    "level": 4,
+    "bypassesPlayerLimit": true
+  }
+]
